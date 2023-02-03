@@ -23,7 +23,8 @@
                 System.out.print("Choose the operation:");  
                   
                 //get choice from user  
-                int choice = sc.nextInt();  
+                int choice = sc.nextInt(); 
+                //switch case
                 switch(choice)  
                 {  
                     case 1:  
