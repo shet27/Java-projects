@@ -1,4 +1,4 @@
-//read from csv file
+//Read from csv file
 import java.io.*;
 import java.util.Scanner;
 
