@@ -1,4 +1,4 @@
-// Java program to implement Hangman game
+// Java program to implement the Hangman game
 
 import java.util.Scanner;
 import java.util.Random;
